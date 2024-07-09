@@ -11,7 +11,7 @@ const mailSender = async (email, name, body) => {
       },
     });
     let info = transporter.sendMail({
-      from: `"portfolio"`,
+      from: '"PortFoilio message" <no-reply@paytm.com>',
       to: process.env.MY_MAIL,
       subject: `portfolio message from ${name} `,
       html: `${body}`,
