@@ -10,13 +10,13 @@ const Hero = () => {
         </motion.div>
         <motion.div className=" mb-3 relative flex flex-col">
           <span className="dark:bg-gradient-to-r  animate-pulse from-[#93a0a9] via-[#12D8FA] to-[#000402]  dark:text-transparent dark:bg-clip-text text-[32px]">
-            I'm Krunal Lodha
+            I am Krunal Lodha
           </span>
         </motion.div>
         <p className=" dark:text-richblack-200 text-sm w-[90%]">
           Welcome to my website! Please take your time to explore my portfolio
           and discover all of my projects. If you find something that interests
-          you, don't hesitate to reach out to me. I'm excited to connect with
+          you do not hesitate to reach out to me. I am excited to connect with
           you!
         </p>
       </motion.div>
