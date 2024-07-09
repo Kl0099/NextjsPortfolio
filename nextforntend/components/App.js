@@ -4,7 +4,6 @@
 import NavBar from "./NavBar";
 import Hero from "./Hero";
 import FirstSection from "./FirstSection";
-import PortfolioSection from "./PortfolioSection";
 import SkillsAndExperience from "./SkillsAndExperience";
 import ContactUs from "./ContactUs";
 import MYProject from "./MYProject";

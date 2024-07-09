@@ -13,8 +13,6 @@ const ContactUs = () => {
   const [name, setname] = useState("");
   const [message, setMessage] = useState("");
   const [loading, setLoading] = useState(false);
-  // const langtitude = 23.0080312;
-  // const longitude = 72.5823307;
   const socialMediaLinks = [
     {
       name: "Github",
